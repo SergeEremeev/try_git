@@ -1,1 +1,2 @@
-readme
+chop
+chop readme
